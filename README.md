@@ -19,19 +19,19 @@ The project has the following structure:
 
 ### 1. Clone the Repository
 
-1. Clone the project repository to your local machine:
+Clone the project repository to your local machine:
 
 git clone [https://your-repository-url.git](https://github.com/mohankumar130/employee_management.git)
 
 cd employee_management
 
-2. Install Dependencies
+## Install Dependencies
 You can install the necessary Python dependencies using pip:
 
-  pip install -r requirements.txt
+pip install -r requirements.txt
 
-3. Build and Run the Docker Containers
-   docker-compose up --build
+### Build and Run the Docker Containers
+docker-compose up --build
 
-4. Check browser
-   http://localhost:8000
+### Check browser
+http://localhost:8000
