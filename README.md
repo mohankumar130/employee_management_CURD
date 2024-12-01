@@ -18,7 +18,8 @@ The project has the following structure:
 
 1. Clone the project repository to your local machine:
 
-git clone https://your-repository-url.git
+git clone [https://your-repository-url.git](https://github.com/mohankumar130/employee_management.git)
+
 cd employee_management
 
 2. Install Dependencies
