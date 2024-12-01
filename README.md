@@ -1,4 +1,4 @@
-# Employee Management Application CURD
+# Employee Management Application CURD with Postgressql
 
 ![image](https://github.com/user-attachments/assets/80fd6cf5-e2f8-4f26-bd30-16bc1daaa04a)
 
