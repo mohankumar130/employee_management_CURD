@@ -1,5 +1,8 @@
 # Employee Management Application CURD
 
+![image](https://github.com/user-attachments/assets/80fd6cf5-e2f8-4f26-bd30-16bc1daaa04a)
+
+
 This is a Django-based Employee Management application that allows CRUD operations on employee records. The project is containerized using Docker to simplify deployment and running the application in any environment.
 
 ## Project Structure
